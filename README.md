@@ -99,7 +99,6 @@ This project demonstrates:
 
 ## ✔️ Submission
 
-Submit this GitHub repository link to the faculty:
 https://github.com/nidhishnutakki06/EMS-CBP
 
 
