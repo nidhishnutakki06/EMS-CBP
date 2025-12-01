@@ -1,4 +1,4 @@
-# 🎪 Event Management System — DBMS Course-Based Project (CBP)
+#  Event Management System — DBMS Course-Based Project (CBP)
 
 This repository contains the complete **database implementation** (schema, sample data, queries, triggers, procedures, and views) for our **Event Management System** created as part of the **DBMS Course Based Project (CBP)**.
 
@@ -7,7 +7,7 @@ Source workspace: https://onecompiler.com/mysql/444cg2atq
 
 ---
 
-## 📌 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -17,7 +17,7 @@ Source workspace: https://onecompiler.com/mysql/444cg2atq
 
 ---
 
-## 🏗️ Database Overview
+##  Database Overview
 
 The project models a complete event-management system including:
 
@@ -40,9 +40,9 @@ The project models a complete event-management system including:
 
 ---
 
-## ▶️ How to Run This Project (MySQL / OneCompiler / Workbench)
+##  How to Run This Project (MySQL / OneCompiler / Workbench)
 
-### **1️⃣ Create and select a database**
+### ** Create and select a database**
 ```sql
 CREATE DATABASE event_management;
 USE event_management;
@@ -52,7 +52,7 @@ SOURCE queries_and_triggers.sql;
 ```
 ---
 
-## 👥 Team Members
+##  Team Members
 
 - **Name:** Nidhish Nutakki  
   **Roll Number:** 24071A3245  
@@ -76,7 +76,7 @@ SOURCE queries_and_triggers.sql;
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **MySQL 8.x** — Database engine used for all tables, queries, triggers, and procedures  
 - **OneCompiler (Online MySQL IDE)** — Used for development and testing  
@@ -84,7 +84,7 @@ SOURCE queries_and_triggers.sql;
 - **Markdown (README.md)** — For documentation  
 
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 The main objective of this DBMS Course-Based Project (CBP) is to apply database concepts to a real-world system.  
 This project demonstrates:
@@ -97,7 +97,7 @@ This project demonstrates:
 - Managing real-time event workflows such as registrations, QR scans, and attendee tracking  
 - Understanding how DBMS supports full-scale applications  
 
-## ✔️ Submission
+##  Submission
 
 https://github.com/nidhishnutakki06/EMS-CBP
 
